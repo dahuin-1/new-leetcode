@@ -146,7 +146,7 @@
 - question num :  46
   - question link :  https://leetcode.com/problems/permutations/
   - difficulty :  Medium
-  - solution : 
+  - solution : https://github.com/dahuin-1/new-leetcode/blob/master/Top100andTopInterview/medium/Permutation.java
 -----------------------------------------------------
 - question num :  48
   - question link :  https://leetcode.com/problems/rotate-image/
